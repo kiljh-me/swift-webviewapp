@@ -16,30 +16,30 @@
 https://m.shopping.naver.com/
 ▿ url: Optional(https://m.shopping.naver.com/)
 ▿ some: https://m.shopping.naver.com/
-  _url: https://m.shopping.naver.com/ #0
-  super: NSObject
-  cachePolicy: 0
-  timeoutInterval: 60.0
+- _url: https://m.shopping.naver.com/ #0
+- super: NSObject
+- cachePolicy: 0
+- timeoutInterval: 60.0
 ▿ mainDocumentURL: Optional(https://m.shopping.naver.com/)
 ▿ some: https://m.shopping.naver.com/
-  _url: https://m.shopping.naver.com/ #1
-  super: NSObject
-  networkServiceType: __C.NSURLRequestNetworkServiceType
-  allowsCellularAccess: true
+- _url: https://m.shopping.naver.com/ #1
+- super: NSObject
+- networkServiceType: __C.NSURLRequestNetworkServiceType
+- allowsCellularAccess: true
 ▿ httpMethod: Optional("GET")
-  some: "GET"
+- some: "GET"
 ▿ allHTTPHeaderFields: Optional(["User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"])
 ▿ some: 2 key/value pairs
 ▿ (2 elements)
-  key: "User-Agent"
-  value: "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X). AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+- key: "User-Agent"
+- value: "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X). AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 ▿ (2 elements)
-  key: "Accept"
-  value: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
-  httpBody: nil
-  httpBodyStream: nil
-  httpShouldHandleCookies: true
-  httpShouldUsePipelining: true
+- key: "Accept"
+- value: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+- httpBody: nil
+- httpBodyStream: nil
+- httpShouldHandleCookies: true
+- httpShouldUsePipelining: true
 
 - navigationType
 __C.UIWebViewNavigationType
